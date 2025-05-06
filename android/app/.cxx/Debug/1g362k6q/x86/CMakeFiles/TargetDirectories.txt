@@ -1,0 +1,2 @@
+C:/Users/96279/Desktop/mycampuspte/android/app/.cxx/Debug/1g362k6q/x86/CMakeFiles/edit_cache.dir
+C:/Users/96279/Desktop/mycampuspte/android/app/.cxx/Debug/1g362k6q/x86/CMakeFiles/rebuild_cache.dir
